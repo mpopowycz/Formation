@@ -1,2 +1,5 @@
 Bienvenue,
 Ceci est mon premier texte.
+
+Bon rentrons dans le vif du sujet :
+première étape créer un texte pour mon site.
